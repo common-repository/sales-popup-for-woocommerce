@@ -1,0 +1,16 @@
+.wts_popup {
+    position: fixed;
+    width: 17%;
+    height: 115px;
+    top: 0;
+    bottom: 0;
+    right: 50px;
+    margin: auto;
+    background: #ffffff;
+    z-index: 99999;
+    border: 1px solid #ebebeb;
+    border-radius: 50px;
+    transition: all 0.5s ease;
+    padding: 10px 40px;
+    box-shadow: 0px 0px 20px 0px #d0d0d0;
+}

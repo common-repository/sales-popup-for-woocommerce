@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-05 00:42+0200\n"
+"PO-Revision-Date: 2019-10-05 00:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class.api.php:38 views/options.php:93
+msgid "Someone"
+msgstr "Alguien"
+
+#: includes/class.api.php:44
+msgid "minutes"
+msgstr "minutos"
+
+#: includes/class.api.php:44
+msgid "seconds"
+msgstr "segundos"
+
+#: includes/class.api.php:44
+msgid "hours"
+msgstr "horas"
+
+#: includes/class.api.php:44
+msgid "days"
+msgstr "días"
+
+#: includes/class.api.php:159
+#, php-format
+msgid "%s bought ago %s"
+msgstr "%s compró hace %s"
+
+#: sales-popup-for-woocommerce.php:31
+msgid "Priorized Products"
+msgstr "Productos con prioridad"
+
+#: sales-popup-for-woocommerce.php:57
+msgid "Sales Popups"
+msgstr "Popups de Ventas"
+
+#: sales-popup-for-woocommerce.php:62 views/options.php:64
+msgid "Sales Popup for Woocommerce"
+msgstr "Ventanas Emergentes de ventas para WooCommerce"
+
+#: views/dashboard_widget.php:15
+msgid "No priorized products"
+msgstr "No se han encontrado productos con prioridad"
+
+#: views/dashboard_widget.php:19
+msgid "Your priority products"
+msgstr "Sus productos priorizados"
+
+#: views/dashboard_widget.php:24
+msgid "Product Name"
+msgstr "Nombre del producto"
+
+#: views/dashboard_widget.php:25
+msgid "Impresions"
+msgstr "Impresiones"
+
+#: views/dashboard_widget.php:26
+msgid "Clics"
+msgstr "Clics"
+
+#: views/dashboard_widget.php:27
+msgid "%CTR"
+msgstr "%CTR"
+
+#: views/meta-box-product.php:12
+#, php-format
+msgid "Impresions %d"
+msgstr "Impresiones %d"
+
+#: views/meta-box-product.php:13
+#, php-format
+msgid "Clics: %d"
+msgstr "Clics: %d"
+
+#: views/meta-box-product.php:14
+#, php-format
+msgid "CTR: %d"
+msgstr "CTR: %d"
+
+#: views/meta-box-product.php:16
+msgid "Show this product priority"
+msgstr "Mostrar este producto con prioridad"
+
+#: views/meta-box-product.php:17
+msgid ""
+"This product will be used with priority, it will only be shown once per "
+"session"
+msgstr ""
+"Este producto se usará con prioridad, solo se mostrará una vez por sesión"
+
+#: views/options.php:73
+msgid "You buy me a beer? Click here"
+msgstr "¿Me invitas a una cerveza? Haz clic aquí"
+
+#: views/options.php:88
+msgid "Name of the ghost visitor"
+msgstr "Nombre del visitante fantasma"
+
+#: views/options.php:89
+msgid ""
+"There is a 50 / 100 chance of showing this name, so that the variety of "
+"names is higher instead of fake names"
+msgstr ""
+"Este nombre es posible que se muestre con una posibilidad de 50 / 100, para "
+"aumentar el número de nombres disponibles"
+
+#: views/options.php:97
+msgid "Duration"
+msgstr "Duración"
+
+#: views/options.php:98
+msgid "Time show popup in ms (miliseconds)"
+msgstr "Tiempo que se muestra la notificación (milisegundos)"
+
+#: views/options.php:106
+msgid "Delay"
+msgstr "Retraso"
+
+#: views/options.php:107
+msgid "Delay time to show popup in ms (miliseconds)"
+msgstr "Delay time to show popup in ms (miliseconds)"
+
+#: views/options.php:115
+msgid "Fake?"
+msgstr "Fake?"
+
+#: views/options.php:116
+msgid "Create customers name and time random, get random products"
+msgstr ""
+"Crea nombres de clientes y tiempo aleatorios, obtiene los productos de forma "
+"aleatoria"
+
+#: views/options.php:124
+msgid "Fake Names"
+msgstr "Nombres Fake"
+
+#: views/options.php:125
+msgid "If fake option is active"
+msgstr "Si la opción Fake está activada"
+
+#: views/options.php:133
+msgid "Show Price?"
+msgstr "¿Mostrar Precio?"
+
+#: views/options.php:134
+msgid "Show price on popup"
+msgstr "Mostrar precio en la notificación"
+
+#: views/options.php:142
+msgid "Position"
+msgstr "Posición"
+
+#: views/options.php:146
+msgid "Bottom Left"
+msgstr "Abajo Izquierda"
+
+#: views/options.php:147
+msgid "Bottom Right"
+msgstr "Abajo Derecha"
+
+#: views/options.php:148
+msgid "Bottom Center"
+msgstr "Abajo Centro"
+
+#: views/options.php:149
+msgid "Top Left"
+msgstr "Arriba Izquierda"
+
+#: views/options.php:150
+msgid "Top Right"
+msgstr "Arriba Derecha"
+
+#: views/options.php:151
+msgid "Top Center"
+msgstr "Arriba Centro"
+
+#: views/options.php:157
+msgid "Effect"
+msgstr "Efecto"
+
+#: views/options.php:161
+msgid "Attention Seekers"
+msgstr "Buscadores de atención"
+
+#: views/options.php:174
+msgid "Bouncing Entrances"
+msgstr "Entradas rebotantes"
+
+#: views/options.php:182
+msgid "Fading Entrances"
+msgstr "Entradas desvanecidas"
+
+#: views/options.php:194
+msgid "Flippers"
+msgstr "Flippers"
+
+#: views/options.php:200
+msgid "Lightspeed"
+msgstr "Velocidad de la luz"
+
+#: views/options.php:204
+msgid "Rotating Entrances"
+msgstr "Entradas rotativas"
+
+#: views/options.php:212
+msgid "Sliding Entrances"
+msgstr "Entradas deslizantes"
+
+#: views/options.php:219
+msgid "Zoom Entrances"
+msgstr "Entradas con Zoom"
+
+#: views/options.php:227
+msgid "Specials"
+msgstr "Especiales"
+
+#: views/options.php:236
+msgid "Duration Effect"
+msgstr "Duración del efecto"
+
+#: views/options.php:237
+msgid "Time Duration Effect"
+msgstr "Tiempo de duración del efecto"
+
+#: views/options.php:250
+msgid "Delay Effect"
+msgstr "Retraso del Efecto"
+
+#: views/options.php:251
+msgid "Time Delay Effect"
+msgstr "Tiempo de retraso del efecto"
+
+#: views/options.php:264
+msgid "Disable on mobile"
+msgstr "Deshabilitar en móviles"
+
+#: views/options.php:272
+msgid "Hide for logged user"
+msgstr "Ocultar para usuarios logeados"
+
+#: views/options.php:281
+msgid "URL where not to show"
+msgstr "URL donde no quieres que se muestre"
+
+#: views/options.php:282
+msgid "One per line"
+msgstr "Una por línea"
+
+#: views/options.php:290
+msgid "Save"
+msgstr "Guardar"
+
+#: views/options.php:320
+msgid "Need style?"
+msgstr "¿Necesitas estilos?"
+
+#: views/options.php:321
+msgid "Enjoy! Paste this CSS code into your Customizer and edit as you like"
+msgstr ""
+"¡Disfruta! Pega este código en la sección CSS del personalizador y edítala "
+"como más te guste"
+
+#: views/options.php:323
+msgid "Notification style"
+msgstr "Estilo de la notificación"
+
+#: views/options.php:324
+msgid "Customer name style"
+msgstr "Estilo del nombre del cliente"
+
+#: views/options.php:325
+msgid "Product title style"
+msgstr "Estilo del título del producto"
+
+#: views/options.php:326
+msgid "Product image style"
+msgstr "Estilo de la imagen del producto"
+
+#~ msgid "Sales Popup for WooCommerce"
+#~ msgstr "Ventanas Emergentes de ventas para WooCommerce"
